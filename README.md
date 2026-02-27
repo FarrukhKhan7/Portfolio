@@ -18,10 +18,11 @@ Skills Used:  React js | JavaScript (ES6+) | Tailwind CSS | HTML5 | CSS3 |Bootst
 3- Podium Software:
 Podium is a privately held technology company headquartered in Lehi, Utah that develops cloud-based software related to messaging, customer feedback, and online reviews, selling products, and requesting payments. 
 URL: https://www.podium.com/
-Skills Used: React js| Nextjs | JavaScript (ES6+) | Tailwind  CSS | HTML5 | CSS3 | Webpack | Icomoon | Figma | Zeplin and some other tools
+Skills Used: React js | TypeScript | JavaScript (ES6+) | Material UI | Tailwind  CSS | HTML5 | CSS3 | Webpack | Icomoon | Figma | Zeplin and some other tools
 
-4- DP World – Global logistics & trade company (React, Next, TypeScript, JavaScript, Tailwind, GraphQL)
+4- DP World – Global logistics & trade company 
 URL: https://www.dpworld.com/en
+Skills Used: (React, Material UI, TypeScript, JavaScript, Tailwind, GraphQL)
 
 5- Icause:
 icause is a leading Australian crowdfunding platform, giving you more ways to raise and donate money for the causes you care about.
@@ -31,7 +32,7 @@ Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 |Bootstrap| Less/Scss |
 6- Testworthy (Test Case Management System - Dashboard):
 It is one of the popular and comprehensive web-based Test Case Dashboard Management Software.
 URL: https://testworthy.us/
-Skills Used: HTML5 | CSS3 | Bootstrap | SASS/SCSS |BEM | Gulp.js |JavaScript | jQuery| chart.js | Icomoon | Figma | Zeplin and some other tools
+Skills Used: HTML5 | CSS3 | Material UI | Bootstrap | SASS/SCSS |BEM | Gulp.js |JavaScript | jQuery| chart.js | Icomoon | Figma | Zeplin and some other tools
 
 7- Ford (Official Parts Center):
 One of the most popular sport vehicles manufacturer ‘FORD’ official parts centers.
@@ -64,7 +65,7 @@ Skills used: HTML5 | CSS3 |Bootstrap | JavaScript | ES6 | jQuery | WordPress | F
 12- PaySure:
 Paysure allows you to streamline and centralize all your transactions, bringing unprecedented efficiency and control to your financial operations.
 URL: https://paysure.ng/
-Skills Used:  React js| Nextjs | JavaScript (ES6+) | Tailwind  CSS | HTML5 | CSS3 | Webpack | chart.js | Icomoon | Figma | Zeplin and some other tools
+Skills Used:  React js| Material UI | TypeScript | JavaScript (ES6+) | Tailwind  CSS | HTML5 | CSS3 | Webpack | chart.js | Icomoon | Figma | Zeplin and some other tools
 
 13- BrainwaveLogics:
 BrainwaveLogics is a privately held software company headquartered in US, services provider related to designing, digitizing, and development.
