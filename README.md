@@ -12,18 +12,18 @@ Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Chakra UI 
 2- Primary Leap (E-Leaning Platform):
 Primary Leap is an online platform that enables teachers to spend more time teaching and less time on administration.
 URL: https://primaryleap.co.uk/
-Skills Used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
+Skills Used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
 
 
 3- OptimoRoute:
 Optimo Route plans and optimizes routes and schedules for deliveries and mobile workforce.
 URL: https://optimoroute.com/
-Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
+Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
 
 4- EZAD TV:
 The team of innovators behind EZ-AD developed the hardware and software for EZ-AD TV; a premiere digital advertising system, affording businesses remote management of independently operating screens from anywhere on earth.
 URL: https://ezadtv.com/
-Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
+Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
 
 
 5- Rent-A-Center (RAC):
