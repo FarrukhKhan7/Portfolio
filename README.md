@@ -9,96 +9,96 @@ Acima URL: https://www.acima.com/
 Acima Multi-Vendor : URL: https://www.acima.com/en/marketplace 
 Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Chakra UI | Less/Scss | BEM | SAP Hybris UI | Salesforce | jQuery | Java (Sprint Boot) | MySQL | AWS | BackOffice | HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development.
 
+2- Primary Leap (E-Leaning Platform):
+Primary Leap is an online platform that enables teachers to spend more time teaching and less time on administration.
+URL: https://primaryleap.co.uk/
+Skills Used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
 
-2- Rent-A-Center (RAC):
+
+3- OptimoRoute:
+Optimo Route plans and optimizes routes and schedules for deliveries and mobile workforce.
+URL: https://optimoroute.com/
+Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
+
+4- EZAD TV:
+The team of innovators behind EZ-AD developed the hardware and software for EZ-AD TV; a premiere digital advertising system, affording businesses remote management of independently operating screens from anywhere on earth.
+URL: https://ezadtv.com/
+Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
+
+
+5- Rent-A-Center (RAC):
 Rent-A-Center is a publicly traded American retail giant offering rent-to-own products through its ecommerce store. Generating billions in annual revenue, RAC reaches millions of customers nationwide, with a strong partner network.
 URL: https://www.rentacenter.com/
 Skills Used:  React js | JavaScript (ES6+) |  Tailwind CSS | Chakra UI | HTML5 | CSS3 |Bootstrap| Less/Scss | BEM | jQuery| SAP Hybris UI | Java (Sprint Boot) | MySQL | AWS | BackOffice| HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development.
 
-3- Podium Software:
+6- Podium Software:
 Podium is a privately held technology company headquartered in Lehi, Utah that develops cloud-based software related to messaging, customer feedback, and online reviews, selling products, and requesting payments. 
 URL: https://www.podium.com/
 Skills Used: React js | Next | TypeScript | JavaScript (ES6+) | Material UI | Tailwind  CSS | HTML5 | CSS3 | Webpack | .Net | Icomoon | Figma | Zeplin and some other tools
 
-4- DP World – Global logistics & trade company 
+7- DP World – Global logistics & trade company 
 URL: https://www.dpworld.com/en
 Skills Used: (React, Material UI, TypeScript, JavaScript, Tailwind, GraphQL, Java, .Net, Azure)
 
-5- Icause:
+8- Icause:
 icause is a leading Australian crowdfunding platform, giving you more ways to raise and donate money for the causes you care about.
 URL: https://icause.com.au/
 Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap | Less/Scss | BEM | jQuery | Node | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development.
 
-6- Testworthy (Test Case Management System - Dashboard):
+9- Testworthy (Test Case Management System - Dashboard):
 It is one of the popular and comprehensive web-based Test Case Dashboard Management Software.
 URL: https://testworthy.us/
 Skills Used: React | HTML5 | CSS3 | Material UI | Bootstrap | SASS/SCSS |BEM | Gulp.js |JavaScript | jQuery| chart.js | .Net | Icomoon | Figma | Zeplin and some other tools
 
-7- Ford (Official Parts Center):
+10- Ford (Official Parts Center):
 One of the most popular sport vehicles manufacturer ‘FORD’ official parts centers.
 URL: https://www.oemford.parts/
 Skills used:  React js | Next | HTML5 | CSS3 | Bootstrap | JavaScript | ES6 | jQuery | Node | Firebase and some other tools
 
-8- Britepay:
+
+11- Britepay:
 Britepay is a platform that enables users to buy and sell crypto assets, trade gift cards, and benefit from a referral bonus program.
 URL: https://usebritepay.com/
 Skills Used:  React js | JavaScript (ES6+) | HTML5 | CSS3 | Material UI | Less/Scss | BEM | jQuery | Java | Git | Jira | MS Teams | VS Code | Figma | XD | External Libraries.
 
-9- Saylani Welfare:
+12- Saylani Welfare:
 Saylani is a Welfare International Trust that has been serving humanity since 1999.
 URL: https://saylaniwelfare.com/
 Skills Used:  React js | JavaScript (ES6+) | HTML5 | CSS3 | Next js | Tailwind CSS | Animate CSS |SASS/SCSS | Bootstrap | BEM | Gulp.js |Figma and some other tools
 
 
-10- Skysales Saudi Arabia (Shopping Store):
+13- Skysales Saudi Arabia (Shopping Store):
 Skysales SA is an online store and leading service provider in the Middle East. It deals in various products like fragrances, cosmetics, jewelry, watches and accessories.
 URL: https://skysalesonline.com/en
 Skills Used: SAP Hybris UI | HTML5 | CSS3 | Less/Scss | BEM | JavaScript |jQuery| BackOffice|HAC |Eclipse IDE
 
 
-11- ABP Construction Site:
+14- ABP Construction Site:
 Locally owned business specializing in roofing and construction projects and proudly serving surrounding areas.
 URL: https://www.abpconstructionllc.com/
 Skills used: HTML5 | CSS3 |Bootstrap | JavaScript | ES6 | jQuery | WordPress | Firebase and some other tools
 
 
-12- PaySure:
+15- PaySure:
 Paysure allows you to streamline and centralize all your transactions, bringing unprecedented efficiency and control to your financial operations.
 URL: https://paysure.ng/
 Skills Used:  React js | Material UI | TypeScript | JavaScript (ES6+) | Tailwind  CSS | HTML5 | CSS3 | Webpack | chart.js | Java | Icomoon | Figma | Zeplin and some other tools
 
-13- BrainwaveLogics:
+16- BrainwaveLogics:
 BrainwaveLogics is a privately held software company headquartered in US, services provider related to designing, digitizing, and development.
 URL:  https://brainwavelogics.com/
 Skills Used: HTML5 | CSS3 | Bootstrap | jQuery | JavaScript (ES6+) |SASS/SCSS| BEM | Gulp.js | AOS Animations | Figma and some other tools
 
-14- EZAD TV:
-The team of innovators behind EZ-AD developed the hardware and software for EZ-AD TV; a premiere digital advertising system, affording businesses remote management of independently operating screens from anywhere on earth.
-URL: https://ezadtv.com/
-Skills used: HTML5 | CSS3 | Bootstrap | React js | JavaScript (ES6+) | jQuery | SASS/SCSS  | BEM | Gulp.js | PHP | Figma and some other tools
-
-15- Swiss Auto (Auto Store):
+17- Swiss Auto (Auto Store):
 One of the most popular sport vehicle manufacturer official stores.
 URL: https://swissauto.ae/
 Skills Used: HTML5 | CSS3 | Bootstrap | JavaScript (ES6+) | WordPress | jQuery | MySQL | Firebase and some other tools.
 
-
-16- Corridor Agro Allied Services:
+18- Corridor Agro Allied Services:
 Corridor Agro Allied Services Limited (CAAS) is the Special Purpose Vehicle (SPV) of the Nigeria Backbone Infrastructure Limited, whose vision is to invest and support the development..
 URL: https://corridoragroallied.com/
 Skills Used: React js | Next js | JavaScript (ES6+) | Tailwind  CSS | HTML5 | CSS3 | Gulp.js | Icomoon | Figma | PHP | Zeplin and some other tools
 
-
-17- Primary Leap (E-Leaning Platform):
-Primary Leap is an online platform that enables teachers to spend more time teaching and less time on administration.
-URL: https://primaryleap.co.uk/
-Skills Used: HTML5 | CSS3 | Vue js | Chart js | jQuery UI | Lodash | JavaScript | ES6 |SASS/SCSS| BEM | Gulp.js | PHP | Figma and some other tools
-
-
-18- OptimoRoute:
-Optimo Route plans and optimizes routes and schedules for deliveries and mobile workforce.
-URL: https://optimoroute.com/
-Skills used: React js | JavaScript (ES6+) | HTML5 | CSS3 |Bootstrap| Less/Scss | BEM | jQuery | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development.
 
 19- Placemakers:
 Placemakers is an Ecommerce SAP Hybris website that manufactures wall frames, root trusses and structural components at various frame and truss operations.
