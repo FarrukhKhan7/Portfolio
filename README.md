@@ -7,18 +7,18 @@ PROJECTS PORTFOLIO:
 Acima is a US-based fintech platform offering no-credit lease-to-own options for everyday items like furniture, electronics, and tires. Part of a billion-dollar enterprise, supports millions of users and integrates top vendors like Amazon & Ashley via a scalable multi-vendor marketplace.
 Acima URL: https://www.acima.com/
 Acima Multi-Vendor : URL: https://www.acima.com/en/marketplace 
-Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Chakra UI | Less/Scss | BEM | SAP Hybris UI | Salesforce | jQuery | Java (Sprint Boot) | MySQL | AWS | BackOffice | HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development.
+Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Chakra UI | Less/Scss | BEM | SAP Hybris UI | Salesforce | jQuery | Java (Sprint Boot) | MySQL | AWS | BackOffice | HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | Claude | AI | Cursor | External Libraries | Pixel Perfect Development.
 
 2- Primary Leap (E-Leaning Platform):
 Primary Leap is an online platform that enables teachers to spend more time teaching and less time on administration.
 URL: https://primaryleap.co.uk/
-Skills Used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
+Skills Used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Claude | AI | Cursor | Webpack | Figma)
 
 
 3- OptimoRoute:
 Optimo Route plans and optimizes routes and schedules for deliveries and mobile workforce.
 URL: https://optimoroute.com/
-Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
+Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Claude | AI | Cursor | Vite | Webpack | Figma)
 
 4- EZAD TV:
 The team of innovators behind EZ-AD developed the hardware and software for EZ-AD TV; a premiere digital advertising system, affording businesses remote management of independently operating screens from anywhere on earth.
@@ -29,16 +29,16 @@ Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart 
 5- Rent-A-Center (RAC):
 Rent-A-Center is a publicly traded American retail giant offering rent-to-own products through its ecommerce store. Generating billions in annual revenue, RAC reaches millions of customers nationwide, with a strong partner network.
 URL: https://www.rentacenter.com/
-Skills Used:  React js | JavaScript (ES6+) |  Tailwind CSS | Chakra UI | HTML5 | CSS3 |Bootstrap| Less/Scss | BEM | jQuery| SAP Hybris UI | Java (Sprint Boot) | MySQL | AWS | BackOffice| HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development.
+Skills Used:  React js | JavaScript (ES6+) |  Tailwind CSS | Chakra UI | HTML5 | CSS3 |Bootstrap| Less/Scss | BEM | jQuery| SAP Hybris UI | Java (Sprint Boot) | MySQL | AWS | BackOffice| HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Claude | AI | Cursor | Pixel Perfect Development.
 
 6- Podium Software:
 Podium is a privately held technology company headquartered in Lehi, Utah that develops cloud-based software related to messaging, customer feedback, and online reviews, selling products, and requesting payments. 
 URL: https://www.podium.com/
-Skills Used: React js | Next | TypeScript | JavaScript (ES6+) | Material UI | Tailwind  CSS | HTML5 | CSS3 | Webpack | .Net | Icomoon | Figma | Zeplin and some other tools
+Skills Used: React js | Next | TypeScript | JavaScript (ES6+) | Material UI | Tailwind  CSS | HTML5 | CSS3 | Webpack | .Net | Icomoon | Figma | Claude | AI | Cursor | Zeplin and some other tools
 
 7- DP World – Global logistics & trade company 
 URL: https://www.dpworld.com/en
-Skills Used: (React, Material UI, TypeScript, JavaScript, Tailwind, GraphQL, Java, .Net, Azure)
+Skills Used: (React, Material UI, TypeScript, JavaScript, Tailwind, GraphQL, Java, .Net, Claude | AI | Cursor | Azure)
 
 8- Icause:
 icause is a leading Australian crowdfunding platform, giving you more ways to raise and donate money for the causes you care about.
@@ -48,7 +48,7 @@ Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap | Less/Scss
 9- Testworthy (Test Case Management System - Dashboard):
 It is one of the popular and comprehensive web-based Test Case Dashboard Management Software.
 URL: https://testworthy.us/
-Skills Used: React | HTML5 | CSS3 | Material UI | Bootstrap | SASS/SCSS |BEM | Gulp.js |JavaScript | jQuery| chart.js | .Net | Icomoon | Figma | Zeplin and some other tools
+Skills Used: React | HTML5 | CSS3 | Material UI | Bootstrap | SASS/SCSS |BEM | Gulp.js |JavaScript | jQuery| chart.js | Claude | AI | Cursor | .Net | Icomoon | Figma | Zeplin and some other tools
 
 10- Ford (Official Parts Center):
 One of the most popular sport vehicles manufacturer ‘FORD’ official parts centers.
@@ -70,7 +70,7 @@ Skills Used:  React js | JavaScript (ES6+) | HTML5 | CSS3 | Next js | Tailwind C
 13- Skysales Saudi Arabia (Shopping Store):
 Skysales SA is an online store and leading service provider in the Middle East. It deals in various products like fragrances, cosmetics, jewelry, watches and accessories.
 URL: https://skysalesonline.com/en
-Skills Used: SAP Hybris UI | HTML5 | CSS3 | Less/Scss | BEM | JavaScript |jQuery| BackOffice|HAC |Eclipse IDE
+Skills Used: SAP Hybris UI | HTML5 | CSS3 | Less/Scss | BEM | JavaScript | jQuery | Claude | AI | Cursor | BackOffice|HAC |Eclipse IDE
 
 
 14- ABP Construction Site:
@@ -87,7 +87,7 @@ Skills Used:  React js | Material UI | TypeScript | JavaScript (ES6+) | Tailwind
 16- BrainwaveLogics:
 BrainwaveLogics is a privately held software company headquartered in US, services provider related to designing, digitizing, and development.
 URL:  https://brainwavelogics.com/
-Skills Used: HTML5 | CSS3 | Bootstrap | jQuery | JavaScript (ES6+) |SASS/SCSS| BEM | Gulp.js | AOS Animations | Figma and some other tools
+Skills Used: HTML5 | CSS3 | Bootstrap | jQuery | JavaScript (ES6+) |SASS/SCSS| BEM | Gulp.js | AOS Animations | Claude | AI | Cursor | Figma and some other tools
 
 17- Swiss Auto (Auto Store):
 One of the most popular sport vehicle manufacturer official stores.
