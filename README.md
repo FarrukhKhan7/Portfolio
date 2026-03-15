@@ -103,7 +103,7 @@ Skills Used: React js | Next js | JavaScript (ES6+) | Tailwind  CSS | HTML5 | CS
 19- Placemakers:
 Placemakers is an Ecommerce SAP Hybris website that manufactures wall frames, root trusses and structural components at various frame and truss operations.
 URL: https://www.placemakers.co.nz/online/
-Skills Used: Angular | SAP  Hybris UI | HTML5 | CSS3 | Bootstrap | Less/Scss  | BEM  | JavaScript | jQuery | Java (Sprint Boot) | MySQL | AWS | BackOffice | HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development
+Skills Used:  SAP  Hybris UI | HTML5 | CSS3 | Bootstrap | Less/Scss  | BEM  | JavaScript | jQuery | Java (Sprint Boot) | MySQL | AWS | BackOffice | HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development
 
 
 Many more are there will be provided on demand.
