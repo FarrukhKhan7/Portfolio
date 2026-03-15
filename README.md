@@ -9,32 +9,32 @@ Acima URL: https://www.acima.com/
 Acima Multi-Vendor : URL: https://www.acima.com/en/marketplace 
 Skills Used: React js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind | Chakra UI | Less/Scss | BEM | SAP Hybris UI | Salesforce | jQuery | Java (Sprint Boot) | MySQL | AWS | BackOffice | HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | Claude | AI | Cursor | External Libraries | Pixel Perfect Development.
 
-2- Primary Leap (E-Leaning Platform):
+2- Rent-A-Center (RAC):
+Rent-A-Center is a publicly traded American retail giant offering rent-to-own products through its ecommerce store. Generating billions in annual revenue, RAC reaches millions of customers nationwide, with a strong partner network.
+URL: https://www.rentacenter.com/
+Skills Used:  React js | JavaScript (ES6+) |  Tailwind CSS | Chakra UI | HTML5 | CSS3 |Bootstrap| Less/Scss | BEM | jQuery| SAP Hybris UI | Java (Sprint Boot) | MySQL | AWS | BackOffice| HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Claude | AI | Cursor | Pixel Perfect Development.
+
+3- Podium Software:
+Podium is a privately held technology company headquartered in Lehi, Utah that develops cloud-based software related to messaging, customer feedback, and online reviews, selling products, and requesting payments. 
+URL: https://www.podium.com/
+Skills Used: React js | Next | TypeScript | JavaScript (ES6+) | Material UI | Tailwind  CSS | HTML5 | CSS3 | Webpack | .Net | Icomoon | Figma | Claude | AI | Cursor | Zeplin and some other tools
+
+4- Primary Leap (E-Leaning Platform):
 Primary Leap is an online platform that enables teachers to spend more time teaching and less time on administration.
 URL: https://primaryleap.co.uk/
 Skills Used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Claude | AI | Cursor | Webpack | Figma)
 
 
-3- OptimoRoute:
+5- OptimoRoute:
 Optimo Route plans and optimizes routes and schedules for deliveries and mobile workforce.
 URL: https://optimoroute.com/
 Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Claude | AI | Cursor | Vite | Webpack | Figma)
 
-4- EZAD TV:
+6- EZAD TV:
 The team of innovators behind EZ-AD developed the hardware and software for EZ-AD TV; a premiere digital advertising system, affording businesses remote management of independently operating screens from anywhere on earth.
 URL: https://ezadtv.com/
 Skills used: (Nuxt | Vue | TypeScript | Pinia | HTML5 | CSS3 | Tailwind | Chart js | Vuex | Storybook | Git | JavaScript | SASS/SCSS| BEM | Vite | Webpack | Figma)
 
-
-5- Rent-A-Center (RAC):
-Rent-A-Center is a publicly traded American retail giant offering rent-to-own products through its ecommerce store. Generating billions in annual revenue, RAC reaches millions of customers nationwide, with a strong partner network.
-URL: https://www.rentacenter.com/
-Skills Used:  React js | JavaScript (ES6+) |  Tailwind CSS | Chakra UI | HTML5 | CSS3 |Bootstrap| Less/Scss | BEM | jQuery| SAP Hybris UI | Java (Sprint Boot) | MySQL | AWS | BackOffice| HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Claude | AI | Cursor | Pixel Perfect Development.
-
-6- Podium Software:
-Podium is a privately held technology company headquartered in Lehi, Utah that develops cloud-based software related to messaging, customer feedback, and online reviews, selling products, and requesting payments. 
-URL: https://www.podium.com/
-Skills Used: React js | Next | TypeScript | JavaScript (ES6+) | Material UI | Tailwind  CSS | HTML5 | CSS3 | Webpack | .Net | Icomoon | Figma | Claude | AI | Cursor | Zeplin and some other tools
 
 7- DP World – Global logistics & trade company 
 URL: https://www.dpworld.com/en
