@@ -105,6 +105,31 @@ Placemakers is an Ecommerce SAP Hybris website that manufactures wall frames, ro
 URL: https://www.placemakers.co.nz/online/
 Skills Used:  SAP  Hybris UI | HTML5 | CSS3 | Bootstrap | Less/Scss  | BEM  | JavaScript | jQuery | Java (Sprint Boot) | MySQL | AWS | BackOffice | HAC | Git | Jira | MS Teams | VS Code | Figma | Adobe XD | External Libraries | Pixel Perfect Development
 
+20- Laminex Australia
+Premium laminate & surface product eCommerce platform — Australia's leading interior surfaces brand.
+URL: https://www.laminex.com.au/
+Skills : ( Angular, TypeScript, SCSS / CSS3, SAP Hybris UI, HTML5, REST APIs, Bootstrap, Git, Figma, JIRA, VS Code, Pixel Perfect Dev, Responsive Design, Cross-browser Compat )
+
+21- Petbarn 
+Australia's largest pet retailer — omnichannel eCommerce platform for pet supplies, food, vet services & same-day delivery.
+url: https://www.petbarn.com.au/
+Skills: Angular · TypeScript · SCSS / CSS3 · SAP Hybris UI · HTML5 · REST APIs · Bootstrap · Responsive Design · Git · Figma · JIRA · VS Code · Pixel Perfect Dev.
+
+22- The Keico
+Premium UK gifting, wellness & lifestyle brand — multi-currency international Shopify eCommerce store
+URL: https://www.thekeico.com/
+Skills: React · Shopify · TypeScript · SCSS / CSS3 · HTML5 · Shopify · REST APIs · Responsive Design · Git · Figma · VS Code · Pixel Perfect Dev · Cross-browser Compatible.
+
+23- Dimond Roofing
+New Zealand's leading architectural metal roofing & cladding manufacturer — product catalogue & specification platform
+URL : https://www.dimond.co.nz/
+Skills: Angular · TypeScript · SCSS / CSS3 · HTML5 · REST APIs · Bootstrap · Responsive Design · Git · Figma · JIRA · VS Code · Pixel Perfect Dev · Cross-browser Compatible.
+
+24- Augusta Active (Augusta Sportswear)
+US sportswear & activewear brand for men, women & kids — React-powered eCommerce platform with team customisation features
+URL: https://www.augustaactive.com/
+Skills: React.js · TypeScript · JavaScript (ES6+) · SCSS / CSS3 · HTML5 · REST APIs · Tailwind CSS · Bootstrap · Git · Figma · VS Code · Pixel Perfect Dev · Responsive Design · Cross-browser Compatible.
+
 
 Many more are there will be provided on demand.
 
